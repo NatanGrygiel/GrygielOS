@@ -22,7 +22,7 @@ If you want to contribute to the project, i will be very happy to accept your pu
 You can also contact me if you have any questions or suggestions, or want to be a part of the project.
 Email: natan@natangrygiel.pl
 ## License
-GrygielOS is licensed under the GNU General Public License v3.0
+GrygielOS is licensed under the GNU General Public License v3.0.  
 TL;DR: If you want to use my code, remember to credit me and publish your code under the same license.
 ## Special Thanks
 - [Intel Architecture Software Developer's Manual](https://software.intel.com/content/www/us/en/develop/articles/intel-sdm.html)
