@@ -1,5 +1,5 @@
 # GrygielOS
-GrygielOS is a FOSS and dependency-free operating system written completely from scratch in Assembly/C/C++
+GrygielOS is a FOSS and dependency-free operating system written completely from scratch in Assembly/C/C++.  
 The main goal of this projest is to learn how an OS works down to the hardware level.
 ## Files
 boot.asm - bootloader written in Assembly
