@@ -10,7 +10,7 @@ To build the bootloader run:
 nasm -f bin boot.asm -o boot/boot.bin
 ```
 the bootloader is already prebuilt in the /boot/ folder
-it is also advised to build (or use the prebuilt) bootloader from the (Releases)[https://github.com/NatanGrygiel/GrygielOS/releases] page, as the one in the master branch may (and probably will) have unfinished features and pieces of code that are a work in progress.
+it is also advised to build (or use the prebuilt) bootloader from the [Releases](https://github.com/NatanGrygiel/GrygielOS/releases) page, as the one in the master branch may (and probably will) have unfinished features and pieces of code that are a work in progress.
 ## Running
 The recommended way to run the OS is using QEMU, as it can easily run the OS from a .bin file.
 To run the OS using QEMU run:
